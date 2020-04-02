@@ -1,6 +1,5 @@
 <html>
 <head>
-<title>MUSIC TO MY EARS YES??????????</title>
 </head>
 <body>
 <p style="color: #ff0000;">GO AWAY</p>
